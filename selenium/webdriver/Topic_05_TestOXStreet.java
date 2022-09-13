@@ -55,8 +55,6 @@ public class Topic_05_TestOXStreet {
 		sleepInSecond(2);
 
 	}
-
-
 	@AfterClass
 	public void afterClass() {
 		driver.quit();
